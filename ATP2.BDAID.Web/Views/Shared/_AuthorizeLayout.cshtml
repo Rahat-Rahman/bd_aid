@@ -1,0 +1,51 @@
+﻿@using ATP2.BDAID.Web.Framework.Util
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body ng-app="bdApp">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="@Url.Action("Index","AdminHost")">BDAid</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="list-group-item" href="#" onclick="ChangeIframe('@Url.Action("Reports","AdminService")','Service Reports')">Service Reports</a> 
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li> @Html.ActionLink("Welcome, " + HttpUtil.UserProfile.Name, "Index", "AdminHost")</li>
+                    <li> @Html.ActionLink("Log Out", "Logout", "Account")</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid body-content">
+        @RenderBody()
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/Chart.js"></script>
+    <script src="~/Scripts/angular-chart.js"></script>
+    <script src="~/Scripts/controller/app.js"></script>
+    <script src="~/Scripts/controller/AllController.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

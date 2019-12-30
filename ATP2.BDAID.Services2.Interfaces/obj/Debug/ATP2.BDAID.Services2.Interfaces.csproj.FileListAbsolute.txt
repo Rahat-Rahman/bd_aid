@@ -1,0 +1,9 @@
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\bin\Debug\ATP2.BDAID.Services2.Interfaces.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\bin\Debug\ATP2.BDAID.Services2.Interfaces.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\bin\Debug\ATP2.BDAID.Entities.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\bin\Debug\ATP2.BDAID.Framework.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\bin\Debug\ATP2.BDAID.Framework.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\bin\Debug\ATP2.BDAID.Entities.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\obj\Debug\ATP2.BDAID.Services2.Interfaces.csprojResolveAssemblyReference.cache
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\obj\Debug\ATP2.BDAID.Services2.Interfaces.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Services2.Interfaces\obj\Debug\ATP2.BDAID.Services2.Interfaces.pdb

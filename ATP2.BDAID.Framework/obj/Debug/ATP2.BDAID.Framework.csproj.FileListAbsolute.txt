@@ -1,0 +1,5 @@
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Framework\bin\Debug\ATP2.BDAID.Framework.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Framework\bin\Debug\ATP2.BDAID.Framework.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Framework\obj\Debug\ATP2.BDAID.Framework.csprojResolveAssemblyReference.cache
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Framework\obj\Debug\ATP2.BDAID.Framework.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Framework\obj\Debug\ATP2.BDAID.Framework.pdb

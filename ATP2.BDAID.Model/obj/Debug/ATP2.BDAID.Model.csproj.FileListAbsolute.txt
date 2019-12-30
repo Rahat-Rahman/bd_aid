@@ -1,0 +1,9 @@
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\bin\Debug\ATP2.BDAID.Model.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\bin\Debug\ATP2.BDAID.Model.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\bin\Debug\ATP2.BDAID.Entities.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\bin\Debug\ATP2.BDAID.Framework.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\bin\Debug\ATP2.BDAID.Framework.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\bin\Debug\ATP2.BDAID.Entities.pdb
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\obj\Debug\ATP2.BDAID.Model.csprojResolveAssemblyReference.cache
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\obj\Debug\ATP2.BDAID.Model.dll
+J:\ATP2 Project\Project.ATP2.BDAID\trunk\V1\ATP2.BDAID\ATP2.BDAID.Model\obj\Debug\ATP2.BDAID.Model.pdb

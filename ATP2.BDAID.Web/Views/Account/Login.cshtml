@@ -1,0 +1,50 @@
+﻿@model ATP2.BDAID.Model.Account.LoginModel
+@{
+    ViewBag.Title = "Login";
+}
+<link href="~/Content/furtherstyles.css" rel="stylesheet" />
+<div class="container">
+    <br/><br /><br />
+    @using (Html.BeginForm("Login", "Account",new { },FormMethod.Post, new { @class = "login" }))
+    {
+        if (!string.IsNullOrEmpty(ViewBag.Error))
+        {
+            <div class="alert alert-dismissible alert-danger">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <strong>Oh snap!</strong> @ViewBag.Error
+            </div>
+        }
+        <div class="row">
+            <div class="col-md-12">
+                <div class="wrap">
+                    <p class="form-title">
+                        Sign In
+                    </p>
+                    @Html.TextBoxFor(m => m.Email, new {@placeholder = "Email"})
+                    @Html.ValidationMessageFor(m => m.Email)
+                    @Html.PasswordFor(m => m.Password, new {@placeholder = "Password"})
+                    @Html.ValidationMessageFor(m => m.Password)
+                    <input type="submit" value="Sign In" class="btn btn-default btn-sm"/>
+                    <div class="remember-forgot">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox"/>
+                                        Remember Me
+                                    </label>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<style>
+    .field-validation-error {
+        color: darkred
+    }
+</style>
